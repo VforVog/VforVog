@@ -5,7 +5,7 @@ My name is Stylianos, I have  a Master's n' a Bachelor's in Applied Informatics.
 - 🔭 I’m currently working on Cloud Projects, Full Stack Development & AI-powered Implementations.
 - 🌱 I recently finished deploying my own Web Portfolio, check it out [here](https://stylianosvogiatzis.eu/)!
 - 👯 I’m looking to collaborate on Innovative projects.
-  - Send me ideas to stelios_vogiatzis@hotmail.com
+  - Send me ideas to stelios_vogiatzis@hotmail.com 🌴
   
 
 <!--

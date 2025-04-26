@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Cloud Projects & Full Stack Development
-- 💬 About Me: A passionate IT guy with a hobby of travelling all around the world, seeking the adventure!
-- 📫 How to reach me: https://stylianosvogiatzis.eu/
+My name is Stylianos, I have a Master's in Business Computing and Bachelors in Applied Informatics. My profession is Computing and my passion is travelling and seeking the adventure!
+
+- 🔭 I’m currently working on Cloud Projects, Full Stack Development & AI-powered Implementations.
+- 🌱 I recently finished deploying my own Web Portfolio, check it out [here](https://stylianosvogiatzis.eu/)
+- 👯 I’m looking to collaborate on Innovative projects
+  - Send me ideas to stelios_vogiatzis@hotmail.com
+  
 
 <!--
 **VforVog/VforVog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

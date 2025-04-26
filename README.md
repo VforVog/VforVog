@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Cloud Projects & Full Stack Development
+- 💬 About Me: A passionate IT guy with a hobby of travelling all around the world, seeking the adventure!
+- 📫 How to reach me: https://stylianosvogiatzis.eu/
+
 <!--
 **VforVog/VforVog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Stylianos, I have  a Master's and a Bachelor's in Applied Informatics. My profession is Computing and my passion is travelling and seeking the adventure!
+My name is Stylianos, I have  a Master's n' a Bachelor's in Applied Informatics. My profession is Computing and my passion is travelling and seeking the adventure!
 
 - 🔭 I’m currently working on Cloud Projects, Full Stack Development & AI-powered Implementations.
 - 🌱 I recently finished deploying my own Web Portfolio, check it out [here](https://stylianosvogiatzis.eu/)!

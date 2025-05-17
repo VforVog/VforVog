@@ -3,7 +3,7 @@
 My name is Stylianos, I have  a Master's n' a Bachelor's in Applied Informatics. My profession is Computing and my passion is travelling and seeking the adventure!
 
 - 🔭 I’m currently working on Cloud Projects, Full Stack Development & AI-powered Implementations.
-- 🌱 I recently finished deploying my own Web Portfolio, check it out [here](https://stylianosvogiatzis.eu/)!
+- 🌱 I recently finished deploying my own Web Portfolio, check it out [stylianosvogiatzis.eu](https://stylianosvogiatzis.eu/)!
 - 👯 I’m looking to collaborate on Innovative projects.
   - Send me ideas to my [email](mailto:stelios_vogiatzis@hotmail.com) 🌴
   

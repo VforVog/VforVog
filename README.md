@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Stylianos, I have  a Bachelor's and Master's degree in Applied Informatics and I am fully committed to executing a cloud-driven career trajectory. My profession is Computing and my passion is travelling and seeking the adventure!
+My name is Stylianos, I have  a Bachelor's and Master's degree in Applied Informatics and I am fully committed to executing a cloud-driven career trajectory. My profession is Computing and my passion is travelling and seeking the adventure 🧳!
 
 - 🔭 I’m working on Cloud Projects, Full Stack Development & AI-powered Implementations.
 - 🌱 That's my hand-mande Web Portfolio, check it out [stylianosvogiatzis.eu](https://stylianosvogiatzis.eu/)!
